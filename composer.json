@@ -1,0 +1,29 @@
+{
+    "name": "danielcosta/tree",
+    "description": "A simple helper package to allow using Trees on PHP",
+    "type": "library",
+    "license": "=MIT",
+    "authors": [
+        {
+            "name": "Daniel Costa",
+            "email": "danielcosta@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "DCST\\Tree\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {},
+    "require-dev": {
+        "symfony/thanks": "^1.0",
+        "phpunit/phpunit": "^7.0"
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
