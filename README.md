@@ -89,15 +89,15 @@ Optional parameters to this method are:
 
 [ico-version]: https://img.shields.io/packagist/v/danielcosta/tree.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/danielcosta/tree/master.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/danielcosta/tree.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/danielcosta/tree.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/danielcosta/php-helper-tree/master.svg?style=flat-square
+[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/danielcosta/php-helper-tree.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/danielcosta/php-helper-tree.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/danielcosta/tree.svg?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/danielcosta/tree
-[link-travis]: https://travis-ci.org/danielcosta/tree
-[link-scrutinizer]: https://scrutinizer-ci.com/g/danielcosta/tree/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/danielcosta/tree
+[link-travis]: https://travis-ci.org/danielcosta/php-helper-tree
+[link-scrutinizer]: https://scrutinizer-ci.com/g/danielcosta/php-helper-tree/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/danielcosta/php-helper-tree
 [link-downloads]: https://packagist.org/packages/danielcosta/tree
 [link-author]: https://github.com/danielcosta
 [link-contributors]: ../../contributors
